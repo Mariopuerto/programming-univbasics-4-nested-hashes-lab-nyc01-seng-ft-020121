@@ -1,4 +1,5 @@
 programmer_hash = {:grace_hopper}
+puts programmer_hash
 
 def hopper
 	programmer_hash =
