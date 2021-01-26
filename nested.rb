@@ -1,4 +1,4 @@
-programmer_hash {:grace_hopper}
+programmer_hash = {:grace_hopper}
 
 def hopper
 	programmer_hash =
